@@ -1,3 +1,4 @@
+![I am a Junior Front-end developer. ](https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/Github%20Banner.png)
 
 ## :chart_with_upwards_trend: Current Stats
 

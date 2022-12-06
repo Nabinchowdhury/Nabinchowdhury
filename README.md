@@ -5,11 +5,9 @@
 
 <br />
 
-[<img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/nabin-krishan-chowdhury-88a406235/)[<img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Facebook.png">](https://www.facebook.com/nabin.ron)[<img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Twitter.png">](https://twitter.com/NK_Chowdhury1)
-
 <div align="center"><a href="https://www.linkedin.com/in/nabin-krishan-chowdhury-88a406235/"><img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Linkedin.png"></a>
-<a href="https://www.linkedin.com/in/nabin-krishan-chowdhury-88a406235/"><img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Facebook.png"></a>
-<a href="https://www.linkedin.com/in/nabin-krishan-chowdhury-88a406235/"><img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Twitter.png"></a></div>
+<a href="https://www.facebook.com/nabin.ron"><img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Facebook.png"></a>
+<a href="https://twitter.com/NK_Chowdhury1"><img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Twitter.png"></a></div>
 <br />
 
 ## :chart_with_upwards_trend: Current Stats

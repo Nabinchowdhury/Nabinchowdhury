@@ -1,4 +1,4 @@
-hi
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />

@@ -7,6 +7,7 @@
 
 [<img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/nabin-krishan-chowdhury-88a406235/)[<img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Facebook.png">](https://www.facebook.com/nabin.ron)[<img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Twitter.png">](https://twitter.com/NK_Chowdhury1)
 
+<a href=""><img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Linkedin.png"></a>
 <br />
 
 ## :chart_with_upwards_trend: Current Stats

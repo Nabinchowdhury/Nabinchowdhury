@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png)
+(https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png)
 
 
 ## :chart_with_upwards_trend: Current Stats

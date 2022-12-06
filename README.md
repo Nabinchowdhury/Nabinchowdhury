@@ -5,7 +5,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/nabin-krishan-chowdhury-88a406235/)[<img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Facebook.png">](https://www.facebook.com/nabin.ron)[<img height="75" src="https://github.com/Nabinchowdhury/Nabinchowdhury/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/NK_Chowdhury1)
 
 <br />
 
